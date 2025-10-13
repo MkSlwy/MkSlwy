@@ -31,6 +31,11 @@ During my studies, I worked with **R**, **Python**, and **C**, which eventually 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 --- 
+## 🎓 Certifications
+
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**  
+
+---
 ## 🔍 What I’m Currently Interested In
 
 I’m always looking to understand **how things work under the hood** — both in software and hardware.  
