@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Mike
 
 I'm a **Full-Stack Software Developer** working at **OptusApp**, a small SaaS company where we develop and maintain a **native app for the social housing sector**.  
-I work primarily with the **MERN stack** — React, Express, Node.js, and MongoDB — as well as **React Native** for mobile development.  
+I work primarily with the **MERN stack** - React, Express, Node.js, and MongoDB - as well as **React Native** for mobile development.  
 Our infrastructure is **hosted on Azure**, where I help maintain and deploy production environments.
 
 I studied **Physics with Space Science** at the **University of Leicester**, where I discovered my passion for programming through the coding-oriented courses in my degree.  
@@ -37,8 +37,8 @@ I’m always looking to understand **how things work under the hood** — both i
 Right now, I’m especially interested in:
 
 - Diving deeper into **React’s internals** — reconciliation, rendering, and performance optimization  
-- Exploring other JavaScript frontend frameworks and libraries like **Vue.js**, **Three.js**, and **Svelte**  
 - Learning more about **how computers and operating systems work** at a low level  
+- Exploring other JavaScript frontend frameworks and libraries like **Vue.js**, **Three.js**, and **Svelte**  
 - Improving my **UI/UX design skills** and workflow using tools like **Figma**  
 
 ---
