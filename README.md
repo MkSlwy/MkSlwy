@@ -38,10 +38,10 @@ During my studies, I worked with **R**, **Python**, and **C**, which eventually 
 ---
 ## 🔍 What I’m Currently Interested In
 
-I’m always looking to understand **how things work under the hood** — both in software and hardware.  
+I’m always looking to understand **how things work at a deeper level** - both in software and hardware.  
 Right now, I’m especially interested in:
 
-- Diving deeper into **React’s internals** — reconciliation, rendering, and performance optimization  
+- Diving deeper into **React’s internals** - reconciliation, rendering, and performance optimization  
 - Learning more about **how computers and operating systems work** at a low level  
 - Exploring other JavaScript frontend frameworks and libraries like **Vue.js**, **Three.js**, and **Svelte**  
 - Improving my **UI/UX design skills** and workflow using tools like **Figma**  
