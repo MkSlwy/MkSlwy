@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Mike
 
-I'm a **Full-Stack Software Developer** working at **OptusApp**, a small SaaS company where we develop and maintain a **native app for the social housing sector**.  
+I'm a **Full-Stack Software Developer** working at **OptusApp**, an SaaS company where we develop and maintain a **native app for the social housing sector**.  
 I work primarily with the **MERN stack** - React, Express, Node.js, and MongoDB - as well as **React Native** for mobile development.  
 Our infrastructure is **hosted on Azure**, where I help maintain and deploy production environments.
 
