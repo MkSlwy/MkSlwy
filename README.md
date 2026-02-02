@@ -9,6 +9,8 @@ During my studies, I worked with **R**, **Python**, and **C**, which eventually 
 
 ---
 
+## **My Experience**
+
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
